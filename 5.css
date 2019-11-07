@@ -1,0 +1,18 @@
+student{
+    display:block; margin-top:10px;font-size: 14pt;color:navy;
+}
+name{
+    display:block; margin-left:10px;font-size: 14pt;color:red;
+}
+usn{
+    display:block; margin-top:10px;font-size: 14pt;color:purple;
+}
+branch{
+    display:block; margin-top:10px;font-size: 14pt;color:aqua;
+}
+college{
+    display:block; margin-top:10px;font-size: 14pt;color:green;
+}
+email{
+    display:block; margin-top:10px;font-size: 14pt;color:blue;
+}

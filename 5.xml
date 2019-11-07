@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <h1>student details</h1>
+    </head>
+    <students>
+        <student>
+            <name>name:arpit</name>
+            <usn>usn:1mv16cs019</usn>
+            <college>college:sir mvit</college>
+            <branch>branch:cse</branch>
+            <year>year:2016</year>
+            <email>email:Aerput@gmail.com</email>
+        </student>
+          <student>
+            <name>arpit</name>
+            <usn>1mv16cs019</usn>
+            <college>sir mvit</college>
+            <branch>cse</branch>
+            <year>2016</year>
+            <email>Aerput@gmail.com</email>
+        </student>
+          <student>
+            <name>arpit</name>
+            <usn>1mv16cs019</usn>
+            <college>sir mvit</college>
+            <branch>cse</branch>
+            <year>2016</year>
+            <email>Aerput@gmail.com</email>
+        </student>
+    </students>
+
+
+    
+
+</html>

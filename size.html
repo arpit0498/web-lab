@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        p {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        var1 = setInterval(intimer, 1000);
+     fs = 5;
+     ids = document.getElementById("demo");
+
+        function intimer() {
+            ids.innerHTML = 'text growing';
+            ids.setAttribute('style', "font-size:" + fs + "px;color:red");
+            fs += 5;
+            if (fs >= 50) {
+                clearInterval(var1)
+                var2 = setInterval(detimer, 1000);
+            }
+        }
+        function detimer() {
+            fs -= 5;
+            ids.innerHTML = 'text shrinking';
+            ids.setAttribute('style', "font-size:" + fs + "px;color:blue");
+        }
+    </script>
+</body>
+
+</html>
