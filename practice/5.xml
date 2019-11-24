@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <h1>student details</h1>
+    </head>
+     <students>
+             
+        <student>
+            <usn>usn:1mv16cs019</usn>
+            <name>name:arpit</name>
+        </student>
+         <student>
+            <usn>usn:1mv16cs019</usn>
+            <name>name:arpit</name>
+        </student>
+         <student>
+            <usn>usn:1mv16cs019</usn>
+            <name>name:arpit</name>
+        </student>
+         <student>
+            <usn>usn:1mv16cs019</usn>
+            <name>name:arpit</name>
+        </student>
+    </students>
+    
+</html>
