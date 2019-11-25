@@ -1,4 +1,16 @@
-<!DOCTYPE html> <html> <body> <style> table, td, th { border: 1px solid black; width: 33%; text-align: center; border-collapse:collapse; background-color:lightblue; } table { margin: auto; } </style>
+<!DOCTYPE html> 
+<html> 
+<body> 
+<style> 
+     table, td, th 
+                 { border: 1px solid black; 
+                   width: 33%; 
+                   text-align: center; 
+                   border-collapse:collapse; 
+                   background-color:lightblue; 
+                 } 
+     table { margin: auto; } 
+</style>
 <?php $servername = "localhost";
 $username = "root";
 $password = "";
